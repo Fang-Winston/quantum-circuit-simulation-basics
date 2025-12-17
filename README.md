@@ -11,7 +11,7 @@ It focuses on simple gates, Bell states, and visualizing measurement results.
 ## Tools Used
 - Python 3.x
 - Qiskit
-- Jupyter Notebook / Google Colab
+- Jupyter Notebook
 
 ## Getting Started
 1. Install Qiskit:

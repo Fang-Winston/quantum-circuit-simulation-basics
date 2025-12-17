@@ -15,7 +15,9 @@ It focuses on simple gates, Bell states, and visualizing measurement results.
 
 ## Getting Started
 1. Install Qiskit:
+```bash
 #pip install qiskit
+```
 2. Open bell_state.ipynb in Jupyter Notebook.
 3. Run each cell to simulate quantum circuits and visualize results.
 

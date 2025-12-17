@@ -22,5 +22,5 @@ It focuses on simple gates, Bell states, and visualizing measurement results.
 3. Run each cell to simulate quantum circuits and visualize results.
 
 ## Expected Results
-- Circuit diagrams of Bell state preparation
-- Measurement histograms showing entanglement
+- Circuit diagram of Bell state preparation
+- Measurement histogram, e.g., {'00': 521, '11': 503}
